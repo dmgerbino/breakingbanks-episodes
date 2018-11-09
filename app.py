@@ -6,19 +6,9 @@
 # escape any ' with \
 # MUST remove any ampersands (&) or feed will break
 episodes = [
-    {'num': '1', 'title': 'Speech to Text - Eric Bolo, Batvoice', 'mp3': 'https://www.buzzsprout.com/159584/691682-speech-to-text-eric-bolo-batvoice-voice-tech-podcast-ep-001.mp3'},
-    {'num': '2', 'title': 'Voice AI for eCommerce - John Fitzpatrick, Voysis', 'mp3': 'https://www.buzzsprout.com/159584/706405-voice-ai-for-ecommerce-john-fitzpatrick-voysis-voice-tech-podcast-ep-002.mp3'},
-    {'num': '3', 'title': 'Vivatech 2018 Voice Startup Summary', 'mp3': 'https://www.buzzsprout.com/159584/713152-vivatech-2018-voice-startup-summary-voice-tech-podcast-ep-003.mp3'},
-    {'num': '4', 'title': 'Building Knight Rider\'s KITT - Charles Cadbury, Champers Advisory', 'mp3': 'https://www.buzzsprout.com/159584/727981-building-knight-rider-s-kitt-charles-cadbury-champers-advisory-voice-tech-podcast-ep-004.mp3'},
-    {'num': '5', 'title': 'The Art of Sound in Motion - Greg Beller, IRCAM', 'mp3': 'https://www.buzzsprout.com/159584/745293-the-art-of-sound-in-motion-greg-beller-ircam-voice-tech-podcast-ep-005.mp3'},
-    {'num': '6', 'title': 'Deaf Person Calling - Benjamin Etienne, Rogervoice', 'mp3': 'https://www.buzzsprout.com/159584/756593-deaf-person-calling-benjamin-etienne-rogervoice-voice-tech-podcast-ep-006.mp3'},
-    {'num': '7', 'title': 'Perception of Smiles in the Voice - Pablo Arias, IRCAM', 'mp3': 'https://www.buzzsprout.com/159584/768073-perception-of-smiles-in-the-voice-pablo-arias-ircam-voice-tech-podcast-ep-007.mp3'},
-    {'num': '8', 'title': 'Signal Processing Basics for Audio - Dogac Basaran, CNRS', 'mp3': 'https://www.buzzsprout.com/159584/779373-signal-processing-basics-for-audio-dogac-basaran-cnrs-voice-tech-podcast-ep-008.mp3'},
-    {'num': '9', 'title': 'Hum a Fingerprint, Extract a Melody - Dogac Basaran, CNRS', 'mp3': 'https://www.buzzsprout.com/159584/791569-hum-a-fingerprint-extract-a-melody-dogac-basaran-cnrs-voice-tech-podcast-ep-009.mp3'},
-    {'num': '10', 'title': 'Podcasts of the Future - Bryan Colligan, AlphaVoice', 'mp3': 'https://www.buzzsprout.com/159584/804581-podcasts-of-the-future-bryan-colligan-alphavoice-voice-tech-podcast-ep-010.mp3'},
-    {'num': '11', 'title': 'Audio Branding and Sound Design - Sebastian Hanfland, Hanfland and Friends', 'mp3': 'https://www.buzzsprout.com/159584/817053-audio-branding-sound-design-sebastian-hanfland-hanfland-friends-voice-tech-podcast-ep-011.mp3'},
-    {'num': '12', 'title': 'Fast Scalable Voice IoT Apps - Syed Ahmed, PubNub', 'mp3': 'https://www.buzzsprout.com/159584/829047-fast-scalable-voice-iot-apps-syed-ahmed-pubnub-voice-tech-podcast-ep-012.mp3'},
-    {'num': '13', 'title': 'Open Source Voice Assistants - Joshua Montgomery, MyCroft', 'mp3': 'https://www.buzzsprout.com/159584/843400-open-source-voice-assistants-joshua-montgomery-mycroft-voice-tech-podcast-ep-013.mp3'}
+    {'num': '1', 'title': 'A New Take on Credit and Lending', 'mp3': 'https://cdn.voiceamerica.com/business/011292/bking050213.mp3'},
+    {'num': '2', 'title': 'The Era of Faster, Smarter Payments', 'mp3': 'https://cdn.voiceamerica.com/business/011292/bking050913.mp3'},
+    {'num': '263', 'title': 'Closing the Gap Between Idea and Results', 'mp3': 'https://cdn.voiceamerica.com/business/011292/bking110818.mp3'}
 ]
 
 # ######################################
