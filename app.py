@@ -8,7 +8,7 @@
 episodes = [
     {'num': '1', 'title': 'A New Take on Credit and Lending', 'mp3': 'https://cdn.voiceamerica.com/business/011292/bking050213.mp3'},
     {'num': '2', 'title': 'The Era of Faster, Smarter Payments', 'mp3': 'https://cdn.voiceamerica.com/business/011292/bking050913.mp3'},
-    {'num': '263', 'title': 'Closing the Gap Between Idea and Results', 'mp3': 'https://cdn.voiceamerica.com/business/011292/bking110818.mp3'}
+    {'num': '3', 'title': 'Closing the Gap Between Idea and Results', 'mp3': 'https://cdn.voiceamerica.com/business/011292/bking110818.mp3'}
 ]
 
 # ######################################
